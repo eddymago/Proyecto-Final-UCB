@@ -1,0 +1,73 @@
+2024-01-26 16:39:10,124 INFO c.BaseTest [TestNG-tests-1] Navigate to http://tpi.lat:2095/subreseller/
+2024-01-26 16:39:10,313 INFO t.l.Login [TestNG-tests-1] llenar el usuario
+2024-01-26 16:39:10,378 INFO t.l.Login [TestNG-tests-1] llenar el password
+2024-01-26 16:39:10,418 INFO t.l.Login [TestNG-tests-1] Dar click en botona aceptar
+2024-01-26 16:39:14,106 INFO t.l.Login [TestNG-tests-1] selecciona Lines
+2024-01-26 16:39:14,250 INFO t.l.Login [TestNG-tests-1] selecciona User Lines
+2024-01-26 16:39:14,377 INFO t.l.Login [TestNG-tests-1] dar click en Add Line 
+2024-01-26 16:39:14,517 INFO t.l.Login [TestNG-tests-1] llena el usuario con datos aleatorios
+2024-01-26 16:39:14,886 INFO t.l.Login [TestNG-tests-1] llena la nota
+2024-01-26 16:39:14,929 INFO t.l.Login [TestNG-tests-1] dar click en review purchase para la prueba
+2024-01-26 16:39:14,969 INFO t.l.Login [TestNG-tests-1] dar click en purchase para la prueba
+2024-01-26 16:39:15,010 INFO t.l.Login [TestNG-tests-1] verificar el mensaje de exito para la prueba
+2024-01-26 16:39:16,447 INFO t.l.Login [TestNG-tests-1] editar
+2024-01-26 16:39:17,635 INFO t.l.Login [TestNG-tests-1] escoger paquete
+2024-01-26 16:39:18,771 INFO t.l.Login [TestNG-tests-1] seleccionar el 2x1
+2024-01-26 16:39:18,807 INFO t.l.Login [TestNG-tests-1] dar click en review purchase para el usuario final
+2024-01-26 16:39:18,838 INFO t.l.Login [TestNG-tests-1] dar click en purchase para el usiario final
+2024-01-26 16:39:19,817 INFO t.l.Login [TestNG-tests-1] verificar el mensaje de exito para el usiario final
+2024-01-26 16:39:26,503 INFO c.BaseTest [TestNG-tests-1] Closing the driver
+2024-01-26 16:39:30,090 INFO c.BaseTest [TestNG-tests-1] Navigate to http://tpi.lat:2095/subreseller/
+2024-01-26 16:39:30,271 INFO t.l.Login [TestNG-tests-1] llenar el usuario
+2024-01-26 16:39:30,332 INFO t.l.Login [TestNG-tests-1] llenar el password
+2024-01-26 16:39:30,370 INFO t.l.Login [TestNG-tests-1] Dar click en botona aceptar
+2024-01-26 16:39:34,343 INFO t.l.Login [TestNG-tests-1] selecciona Lines
+2024-01-26 16:39:34,472 INFO t.l.Login [TestNG-tests-1] selecciona User Lines
+2024-01-26 16:39:34,600 INFO t.l.Login [TestNG-tests-1] dar click en Add Line 
+2024-01-26 16:39:34,710 INFO t.l.Login [TestNG-tests-1] llena los datos del usuario final con datos aleatorios
+2024-01-26 16:39:35,068 INFO t.l.Login [TestNG-tests-1] llenar datos de correo aleatoriamente
+2024-01-26 16:39:35,115 INFO t.l.Login [TestNG-tests-1] llenar la nota del usuario
+2024-01-26 16:39:35,156 INFO t.l.Login [TestNG-tests-1] dar click en review purchase para el usuario final
+2024-01-26 16:39:35,196 INFO t.l.Login [TestNG-tests-1] dar click en el boton purchase para el usuario final
+2024-01-26 16:39:35,251 INFO t.l.Login [TestNG-tests-1] verificar el mensaje de exito
+2024-01-26 16:39:41,763 INFO c.BaseTest [TestNG-tests-1] Closing the driver
+2024-01-26 16:39:46,085 INFO c.BaseTest [TestNG-tests-1] Navigate to http://tpi.lat:2095/subreseller/
+2024-01-26 16:39:46,271 INFO t.l.Login [TestNG-tests-1] llenar el usuario
+2024-01-26 16:39:46,330 INFO t.l.Login [TestNG-tests-1] llenar el password
+2024-01-26 16:39:46,368 INFO t.l.Login [TestNG-tests-1] Dar click en botona aceptar
+2024-01-26 16:39:50,280 INFO t.l.Login [TestNG-tests-1] selecciona lines
+2024-01-26 16:39:50,409 INFO t.l.Login [TestNG-tests-1] selecciona users lines
+2024-01-26 16:39:50,537 INFO t.l.Login [TestNG-tests-1] dar click en manage lines
+2024-01-26 16:39:50,584 INFO t.l.Login [TestNG-tests-1] selecciona editar usuario
+2024-01-26 16:39:51,548 INFO t.l.Login [TestNG-tests-1] seleccionar paquete
+2024-01-26 16:39:52,674 INFO t.l.Login [TestNG-tests-1] seleccionar paquete 2x1
+2024-01-26 16:39:52,705 INFO t.l.Login [TestNG-tests-1] click en boton purchase para aumetar paquete
+2024-01-26 16:39:52,747 INFO t.l.Login [TestNG-tests-1] click en purchase para aumentar paquete
+2024-01-26 16:39:53,686 INFO t.l.Login [TestNG-tests-1] seleccionar desahilitar
+2024-01-26 16:40:01,541 INFO c.BaseTest [TestNG-tests-1] Closing the driver
+2024-01-26 16:40:05,132 INFO c.BaseTest [TestNG-tests-1] Navigate to http://tpi.lat:2095/subreseller/
+2024-01-26 16:40:05,331 INFO t.l.Login [TestNG-tests-1] llenar el usuario
+2024-01-26 16:40:05,390 INFO t.l.Login [TestNG-tests-1] llenar el password
+2024-01-26 16:40:05,428 INFO t.l.Login [TestNG-tests-1] Dar click en botona aceptar
+2024-01-26 16:40:09,122 INFO t.l.Login [TestNG-tests-1] seleccionar Users
+2024-01-26 16:40:09,260 INFO t.l.Login [TestNG-tests-1] dar click en en boton Add User
+2024-01-26 16:40:09,332 INFO t.l.Login [TestNG-tests-1] borrar lo que ya esta escrito
+2024-01-26 16:40:09,749 INFO t.l.Login [TestNG-tests-1] llenar datos de reseller aleatiriamente
+2024-01-26 16:40:09,782 INFO t.l.Login [TestNG-tests-1] llenar datos de correo aleatoriamente
+2024-01-26 16:40:09,827 INFO t.l.Login [TestNG-tests-1] llenar nota del reseller
+2024-01-26 16:40:09,869 INFO t.l.Login [TestNG-tests-1] dar click en el boton review purchase del reseller
+2024-01-26 16:40:09,905 INFO t.l.Login [TestNG-tests-1] dar click en el boton review del reseller
+2024-01-26 16:40:09,963 INFO t.l.Login [TestNG-tests-1] dar click en el boton añador creditos
+2024-01-26 16:40:12,353 INFO t.l.Login [TestNG-tests-1] colocar la cantidad de creditos asignados
+2024-01-26 16:40:12,618 INFO t.l.Login [TestNG-tests-1] dar click en el boton purchase con la cantidad de creditos asignados
+2024-01-26 16:40:17,744 INFO c.BaseTest [TestNG-tests-1] Closing the driver
+2024-01-26 16:40:22,622 INFO c.BaseTest [TestNG-tests-1] Navigate to http://tpi.lat:2095/subreseller/
+2024-01-26 16:40:22,804 INFO t.l.Login [TestNG-tests-1] llenar el usuario
+2024-01-26 16:40:22,864 INFO t.l.Login [TestNG-tests-1] llenar el password
+2024-01-26 16:40:22,902 INFO t.l.Login [TestNG-tests-1] Dar click en botona aceptar
+2024-01-26 16:40:26,610 INFO t.l.Login [TestNG-tests-1] dar click en el icono de mensaje
+2024-01-26 16:40:26,655 INFO t.l.Login [TestNG-tests-1] dar click click en el boton create ticket
+2024-01-26 16:40:27,322 INFO t.l.Login [TestNG-tests-1] llenar los datos en subject con datos aleatorios
+2024-01-26 16:40:27,815 INFO t.l.Login [TestNG-tests-1] llenar los datos en message con datos aleatorios
+2024-01-26 16:40:27,853 INFO t.l.Login [TestNG-tests-1] dar click en el boton create
+2024-01-26 16:40:32,981 INFO c.BaseTest [TestNG-tests-1] Closing the driver

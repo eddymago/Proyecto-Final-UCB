@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite" verbose="1" parallel="tests">
+    <parameter name="url" value="http://tpi.lat:2095/subreseller/"/>
+    <parameter name="browser" value="chrome"/>
+    <test name="All Test chrome of Flujo de ventas IPTV">
+        <classes>
+            <class name="generalTrial.OrderTest"/>
+        </classes>
+    </test>
+</suite>
